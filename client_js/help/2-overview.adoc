@@ -1,11 +1,11 @@
 [[Overview]]
 == Overview
 
-This document describes NiMMbus system and its characteristics. Next subsection describes ho to sign-in the system, and allowed single-sign-on systems for users.
+This document describes NiMMbus system and its characteristics. Next subsection describes how to sign-in the system, and allowed single-sign-on systems for users.
 
 Following sections in the document (_under construction_) explain the different pages of the system:
 
-* resources: describes the main page after sing-in: the resource list
+* resources: describes the main page after sign-in: the resource list
 * citation: describes the citation resource page
 * publication: describes the publication resource page
 * feedback: describes the feedback resource page and also how to manage feedback items for other resources
